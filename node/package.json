@@ -1,0 +1,13 @@
+{
+  "name": "2021-june-node",
+  "version": "1.0.0",
+  "description": "Run a reciever server from Max",
+  "main": "reciever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PTPO",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
